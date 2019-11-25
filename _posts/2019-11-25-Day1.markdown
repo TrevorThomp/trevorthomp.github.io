@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 1"
+date:   2019-11-25 14:11:30 -0800
+categories: blog
+---
+
+# Hello DevStation
+
+When I was using jekyll strictly through github pages and not locally it wouldn't point the the _posts directory. I ended up doing everything locally so I can initialize jekyll and it will have my proper file structure and theme.
+
+I will spend Thanksgiving this week with my family down in Salem depending on the weather, but either way looking forward to getting snow on Mt. Bachelor!
