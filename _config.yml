@@ -28,7 +28,7 @@ twitter_username: ThompsonRayTrev
 github_username:  TrevorThomp
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
