@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 2"
+date:   2019-11-25 14:11:30 -0800
+categories: blog
+---
+
+Today I worked on completing the weekly project and refactoring the code to ES6. Tomorrow I plan on working more with mongoDB so I can start looking further into authentication.
+
+Today I re-enforced my knowledge of jQuery and the usage of Boostrap for styling.
