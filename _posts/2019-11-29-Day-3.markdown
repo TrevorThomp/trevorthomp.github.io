@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 2"
+date:   2019-11-25 14:11:30 -0800
+categories: blog
+---
+
+Today I didn't work on anything in regards to coding. I spent the day with my family. Tomorrow I plan on working more with mongoDB and express. I want to get back on track for getting into authentication.
+
+I learned today that I enjoy this week way too much because of all the delicious food I can consume.
