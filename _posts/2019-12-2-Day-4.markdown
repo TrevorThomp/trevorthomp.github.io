@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 3"
+date:   2019-11-29 14:11:30 -0800
+categories: blog
+---
+
+Today I started work on the 301 review project. I set up basic handlers for the location and weather. Tomorrow I plan on storing the API's to SQL and fetching them when they aren't stored.
+
+Today I re-enforced the installation of dependencies and setting up a basic express server.
