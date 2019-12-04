@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 4"
+date:   2019-12-2 14:11:30 -0800
+categories: blog
+---
+
+Today I continued work on the 301 review project. I wanted to incorporate MongoDB instead of SQL to challenge myself but without having access to front end or really creating routes I'm going back to how we did it previously. Tomorrow I plan on completing more work on the review project and at least get all API calls working, then start working on storing them.
+
+Today re-enforced constructing URL's for API calls and structuring the express server.s
