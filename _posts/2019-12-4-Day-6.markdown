@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 4"
+date:   2019-12-2 14:11:30 -0800
+categories: blog
+---
+
+Today I started working on storing all API's into the database and setting a cache timer to see if the API's are stale or not. Tomorrow I'm going to finish this project.
+
+Today re-enforced SQL and storing data into the database.
