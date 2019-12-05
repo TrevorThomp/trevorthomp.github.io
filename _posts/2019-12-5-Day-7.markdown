@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 6"
+date:   2019-12-5 14:11:30 -0800
+categories: blog
+---
+
+Today I didn't code anything I had other things to take care of. Tomorrow I plan on finishing up the 301 review project and possibly get back into mongoDB and work on authentication.
+
+Today didn't re-enforce much as I didn't do anything code base.
