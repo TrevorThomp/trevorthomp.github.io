@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 10"
+date:   2019-12-10 14:11:30 -0800
+categories: blog
+---
+
+Today I completed more layout work for the 301 design project. I also added more functionality with my flashcards application that uses Pug as the template engine. Tomorrow I plan on adding more design to the project application and also finish functionality and routing to the flashcards application.
+
+Today re-enforced some css styling and modularizing routes with express.Router()
