@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 12"
+date:   2019-12-12 14:11:30 -0800
+categories: blog
+---
+
+Today I worked more on styling our design project. I also got my side project to accept user registration and save their information to mongoDB. Tomorrow I'm going to work on user logins and authenticating them through mongoDB. This will lead me into using other authentications such as Oauth. 
+
+Today re-enforced my knowledge of styling methods and mongoDB. It helped clarify using routes to have information stored into a mongoDB schema.
