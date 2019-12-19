@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 16"
+date:   2019-12-18 14:11:30 -0800
+categories: blog
+---
+
+Today I practiced using CRUD with mongoDB and utilizing Postman to do posts into mongo with different schemas. Tomorrow I plan on forking and converting the City Explorer app to mongoDB as the database instead of PostgreSQL.
+
+Today re-enforced mongoDB and Postman.
