@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 17"
+date:   2019-12-19 14:11:30 -0800
+categories: blog
+---
+
+Today I worked on re-enforcing my knowledge of mongoDB and being able to create a schema and use a REST client like Postman to be able to send data. Tomorrow I will work more towards updating existing data in mongoDB and more pre-work for 401.
+
+Today helped me re-enforce the knowledge of mongoDB and mongoose.
