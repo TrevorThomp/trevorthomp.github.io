@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 19"
+date:   2019-12-26 14:11:30 -0800
+categories: blog
+---
+
+Today I started using CRUD methods within mongoDB. I've also been learning various things such as default values within mongoose that allows data to be entered without all required schema fields to be present. I also began looking at various different types of unit testing, mostly in Mocha but I wanted to familiarize myself with both Mocha and Jest. 
+
+Today re-enforced what I learned previously with mongoDB and adding on to using CRUD within it. I've always re-enforced some testing knowledge that I'm looking forward to exploring more tomorrow.
+
+Tomorrow I'm going to keep working within mongoDB so that I can feel more comfortable approaching databases both relational and non-relational. I also want to look forward to getting testing underway and maybe look into Passport.js to start getting some social media Oath Authentication on my application.
