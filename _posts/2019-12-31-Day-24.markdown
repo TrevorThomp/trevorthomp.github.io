@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 24"
+date:   2019-12-31 14:11:30 -0800
+categories: blog
+---
+
+Today I completed the Jest and Python Crash Course and started completing other pre work that is due this week. I started looking into data structures with JavaScript such as Linked Lists, Stack and Hash Tables. Today re-enforced my knowledge of some of those data structures.
+
+Tomorrow I plan on taking the day off and going to the mountain.
